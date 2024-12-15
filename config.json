@@ -2,21 +2,21 @@
 	"pools":[
 	{
 		"name": "LuckPool",
-        	"url": "stratum+tcp://na.luckpool.net:3960",
+        	"url": "stratum+tcp://eu.luckpool.net:3960",
 		"timeout": 150
 	},
 	{
 		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
+        	"url": "stratum+tcp://eu.luckpool.net:3956",
 		"timeout": 150
 	},
 	{
 		"name": "LuckPoolFailover2",
-        	"url": "stratum+tcp://na.luckpool.net:3957",
+        	"url": "stratum+tcp://eu.luckpool.net:3957",
 		"timeout": 150
 	}
 	],
-	"user": "RHh2Nvn9MQWVVyZgP9gXMpkTh4XwjF9iR6",
+	"user": "RHh2Nvn9MQWVVyZgP9gXMpkTh4XwjF9iR6.nekoss95_PHONE_FARM",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
